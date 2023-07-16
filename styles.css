@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  color: aliceblue;
+}
+h1 {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+h2 {
+  font-size: medium;
+}
+.week-days {
+  font-weight: bold;
+}
+.days {
+  text-align: center;
+}
+
+.temperature {
+  font-weight: bold;
+  font-size: small;
+}
+body {
+  background-image: url(seven.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.currentTemperature {
+  font-size: xX-large;
+  text-align: center;
+  font-weight: bold;
+}
+.days-temperature {
+  font-size: medium;
+}
+.mark {
+  text-align: center;
+  font-size: x-small;
+  color: black;
+}
